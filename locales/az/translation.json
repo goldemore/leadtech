@@ -1,0 +1,28 @@
+{
+  "contact": "Bizimlə əlaqə",
+  "catalogName": "Məhsulların kataloqu",
+  "search": "Axtarış",
+  "wiewAll": "Daha çox göstər",
+  "contactFooter": "Əlaqə",
+  "stayWithUs": "Bizimlə qalın",
+  "contactUs": "Bizimlə əlaqə",
+  "adress": "Ünvan",
+  "workTime": "İş saatları",
+  "week": "Bazar Ertəsi-Şənbə:",
+  "oclockWork": "10:00-dan - 19:00-dək",
+  "btnSend": "Göndər",
+  "callOrder": "Zəng sifarişi",
+  "categorSearch": "Kateqoriya",
+  "atributies": "Xüsusiyyətlər",
+  "allView": "Bütün məhsullar",
+  "contactUsContent": "Bizimlə əlaqə saxlayaraq suallarınıza cavab tapa və istədiyiniz məhsulusu sifariş edə bilərsiniz.",
+  "questions": "Sualınız var? Bizə yazın",
+  "sweetAlert2": "Zəhmət olmasa bütün xanaları doldurun",
+  "stockStatus1": "Stokda var",
+  "stockStatus2": "Stokda yoxdur",
+  "stockStatus3": "MÖVCUDLUĞU DƏQİQLƏŞDİRİN",
+  "searchErr":"Təəssüf ki, bu adda mal tapılmadı :(",
+  "price":"Qiymət"
+
+
+}
